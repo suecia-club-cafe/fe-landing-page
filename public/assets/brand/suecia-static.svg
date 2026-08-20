@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Suecia Club Café — base estática corregida v4</title>
+  <desc id="desc">Centro y borde exterior estáticos; preparado para superponer los dos anillos rotatorios.</desc>
+  <defs>
+    <clipPath id="centerClip"><circle cx="500" cy="500" r="304"/></clipPath>
+    <clipPath id="cupClip"><path d="M455 316 H542 C540 344 525 363 500 363 C475 363 459 344 455 316 Z"/></clipPath>
+  </defs>
+  <circle cx="500" cy="500" r="474" fill="none" stroke="#E8CC94" stroke-width="16"/>
+  <circle cx="500" cy="500" r="462" fill="none" stroke="#241A14" stroke-width="3" opacity=".95"/>
+  <circle cx="500" cy="500" r="307" fill="#D7B57A" stroke="#241A14" stroke-width="7"/>
+  <circle cx="500" cy="500" r="299" fill="none" stroke="#E8CC94" stroke-width="4"/>
+  <circle cx="500" cy="500" r="294" fill="none" stroke="#241A14" stroke-width="2.5" opacity=".9"/>
+  <g clip-path="url(#centerClip)" stroke="#A77C49" stroke-width="3.8" opacity=".52">
+    <line x1="175" y1="198" x2="825" y2="198"/>
+    <line x1="175" y1="223" x2="825" y2="223"/>
+    <line x1="175" y1="248" x2="825" y2="248"/>
+    <line x1="175" y1="273" x2="825" y2="273"/>
+    <line x1="175" y1="298" x2="825" y2="298"/>
+    <line x1="175" y1="323" x2="825" y2="323"/>
+    <line x1="175" y1="348" x2="825" y2="348"/>
+    <line x1="175" y1="373" x2="825" y2="373"/>
+    <line x1="175" y1="398" x2="825" y2="398"/>
+    <line x1="175" y1="423" x2="825" y2="423"/>
+    <line x1="175" y1="448" x2="825" y2="448"/>
+    <line x1="175" y1="473" x2="825" y2="473"/>
+    <line x1="175" y1="498" x2="825" y2="498"/>
+    <line x1="175" y1="523" x2="825" y2="523"/>
+    <line x1="175" y1="548" x2="825" y2="548"/>
+    <line x1="175" y1="573" x2="825" y2="573"/>
+    <line x1="175" y1="598" x2="825" y2="598"/>
+    <line x1="175" y1="623" x2="825" y2="623"/>
+    <line x1="175" y1="648" x2="825" y2="648"/>
+    <line x1="175" y1="673" x2="825" y2="673"/>
+    <line x1="175" y1="698" x2="825" y2="698"/>
+    <line x1="175" y1="723" x2="825" y2="723"/>
+    <line x1="175" y1="748" x2="825" y2="748"/>
+    <line x1="175" y1="773" x2="825" y2="773"/>
+    <line x1="175" y1="798" x2="825" y2="798"/>
+  </g>
+  <g stroke="#241A14" stroke-width="7" stroke-linecap="round">
+    <line x1="332" y1="334" x2="438" y2="334"/>
+    <line x1="562" y1="334" x2="668" y2="334"/>
+  </g>
+  <g stroke="#241A14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M455 316 H542 C540 344 525 363 500 363 C475 363 459 344 455 316 Z" fill="#D7B57A" stroke-width="6"/>
+    <path d="M541 328 C553 323 563 326 567 335 C571 344 567 354 558 358 C553 360 547 360 541 357" fill="none" stroke-width="6"/>
+    <path d="M489 363 L511 363 L515 370 L485 370 Z" fill="#241A14" stroke-width="2"/>
+    <path d="M473 374 C486 377 514 377 527 374" fill="none" stroke-width="5"/>
+  </g>
+  <g clip-path="url(#cupClip)" fill="#241A14">
+    <circle cx="504" cy="336" r="2.7"/>
+    <circle cx="511" cy="338" r="1.8"/>
+    <circle cx="518" cy="340" r="2.1"/>
+    <circle cx="525" cy="342" r="1.5"/>
+    <circle cx="532" cy="344" r="1.4"/>
+    <circle cx="497" cy="342" r="1.5"/>
+    <circle cx="504" cy="346" r="1.7"/>
+    <circle cx="512" cy="348" r="2.4"/>
+    <circle cx="519" cy="351" r="1.6"/>
+    <circle cx="526" cy="352" r="1.9"/>
+    <circle cx="533" cy="354" r="1.5"/>
+    <circle cx="491" cy="349" r="1.4"/>
+    <circle cx="498" cy="353" r="1.7"/>
+    <circle cx="505" cy="355" r="2.0"/>
+    <circle cx="513" cy="357" r="1.3"/>
+    <circle cx="520" cy="359" r="2.1"/>
+    <circle cx="527" cy="361" r="1.4"/>
+    <circle cx="486" cy="355" r="1.2"/>
+    <circle cx="493" cy="359" r="1.5"/>
+    <circle cx="500" cy="362" r="1.2"/>
+    <circle cx="508" cy="363" r="1.4"/>
+    <circle cx="515" cy="364" r="1.2"/>
+  </g>
+  <g fill="#241A14">
+    <path d="M478 305 C468 296 468 286 477 276 C486 267 488 258 483 247 C497 258 497 271 487 281 C479 289 477 296 484 304 C482 305 480 306 478 305 Z"/>
+    <path d="M500 304 C491 294 492 284 501 274 C510 264 512 254 506 242 C521 255 520 268 510 279 C502 287 500 295 507 303 C505 304 502 305 500 304 Z"/>
+    <path d="M522 306 C514 297 515 288 523 279 C531 270 533 261 528 250 C541 261 541 273 532 283 C525 291 523 298 529 305 C527 306 524 307 522 306 Z"/>
+  </g>
+  <g fill="#241A14" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="500" y="522" font-size="88" font-weight="900" letter-spacing="2">SUECIA</text>
+    <text x="500" y="599" font-size="51" font-weight="900" letter-spacing="1.1">CLUB CAFÉ</text>
+  </g>
+</svg>

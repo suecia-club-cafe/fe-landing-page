@@ -1,0 +1,20 @@
+{
+  "products": [
+    { "name": "Capuccino", "category": "Café", "image": "/assets/productos/capuccino.png", "description": "Café servido para acompañar una tarde sin apuro." },
+    { "name": "Café & cheesecake", "category": "Combos", "image": "/assets/productos/cafe-cheesecake.png", "description": "Una dupla para sentarse, conversar y quedarse un rato más." },
+    { "name": "Carrot cake con buttercream", "category": "Dulces", "image": "/assets/productos/carrot-cake-buttercream.png", "description": "Torta de zanahoria con una cubierta cremosa y generosa." },
+    { "name": "Torta de zanahoria", "category": "Dulces", "image": "/assets/productos/torta-zanahoria.png", "description": "Un clásico de la casa para acompañar café o compartir." },
+    { "name": "Pie de limón", "category": "Dulces", "image": "/assets/productos/pie-de-limon.png", "description": "Cítrico, cremoso y equilibrado." },
+    { "name": "Pie de manzana", "category": "Dulces", "image": "/assets/productos/pie-de-manzana.png", "description": "Dulce, aromático y perfecto para una bebida caliente." },
+    { "name": "Crema volteada", "category": "Dulces", "image": "/assets/productos/crema-volteada.png", "description": "Postre clásico, suave y casero." },
+    { "name": "Torta de chocolate", "category": "Dulces", "image": "/assets/productos/torta-chocolate.png", "description": "Chocolate para cuando la tarde pide algo más intenso." },
+    { "name": "Butifarra de lomo ahumado", "category": "Salados", "image": "/assets/productos/butifarra-lomo-ahumado.png", "description": "Lomo ahumado y sabor contundente para venir con hambre." },
+    { "name": "Empanadas", "category": "Salados", "image": "/assets/productos/empanadas.png", "description": "Una opción práctica para picar o acompañar una bebida." },
+    { "name": "Hamburguesas", "category": "Salados", "image": "/assets/productos/hamburguesas.png", "description": "Una alternativa completa para convertir el café en comida." },
+    { "name": "Alitas", "category": "Salados", "image": "/assets/productos/alitas.png", "description": "Para compartir en la mesa y quedarse conversando." },
+    { "name": "Salchipapa", "category": "Salados", "image": "/assets/productos/salchipapa.png", "description": "Un antojo directo y sin vueltas." },
+    { "name": "Queque de jamón y queso", "category": "Salados", "image": "/assets/productos/queque-jamon-queso.png", "description": "Una opción salada con textura suave y sabor casero." },
+    { "name": "Triples", "category": "Salados", "image": "/assets/productos/triples.png", "description": "Sánguches para una pausa ligera o para compartir." },
+    { "name": "Jugos de fruta", "category": "Bebidas", "image": "/assets/productos/jugos-fruta.png", "description": "Una alternativa fresca para acompañar la mesa." }
+  ]
+}

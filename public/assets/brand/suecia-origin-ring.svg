@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Suecia Club Café — anillo Café de Origen corregido v5</title>
+  <desc id="desc">Anillo de texto y granos de café para rotar en una dirección.</desc>
+  <path fill="#1C130E" fill-rule="evenodd" d="M500 92 A408 408 0 1 1 499.9 92 Z M500 188 A312 312 0 1 0 500.1 188 Z"/>
+  <circle cx="500" cy="500" r="408" fill="none" stroke="#E8CC94" stroke-width="5"/>
+  <circle cx="500" cy="500" r="311" fill="none" stroke="#E8CC94" stroke-width="5"/>
+  <g fill="#F8F4EA" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="38" text-anchor="middle" dominant-baseline="middle">
+    <text x="269.38" y="223.57" transform="rotate(-39.84 269.38 223.57)">C</text>
+    <text x="301.23" y="199.85" transform="rotate(-33.51 301.23 199.85)">A</text>
+    <text x="335.49" y="179.78" transform="rotate(-27.19 335.49 179.78)">F</text>
+    <text x="371.76" y="163.61" transform="rotate(-20.87 371.76 163.61)">É</text>
+    <text x="440.67" y="144.92" transform="rotate(-9.49 440.67 144.92)">D</text>
+    <text x="480.14" y="140.55" transform="rotate(-3.16 480.14 140.55)">E</text>
+    <text x="551.47" y="143.70" transform="rotate(8.22 551.47 143.70)">O</text>
+    <text x="590.41" y="151.54" transform="rotate(14.54 590.41 151.54)">R</text>
+    <text x="628.24" y="163.61" transform="rotate(20.87 628.24 163.61)">I</text>
+    <text x="664.51" y="179.78" transform="rotate(27.19 664.51 179.78)">G</text>
+    <text x="698.77" y="199.85" transform="rotate(33.51 698.77 199.85)">E</text>
+    <text x="730.62" y="223.57" transform="rotate(39.84 730.62 223.57)">N</text>
+    <text x="270.66" y="774.89" transform="rotate(39.84 270.66 774.89)">C</text>
+    <text x="302.33" y="798.48" transform="rotate(33.51 302.33 798.48)">A</text>
+    <text x="336.41" y="818.44" transform="rotate(27.19 336.41 818.44)">F</text>
+    <text x="372.48" y="834.52" transform="rotate(20.87 372.48 834.52)">É</text>
+    <text x="441.00" y="853.11" transform="rotate(9.49 441.00 853.11)">D</text>
+    <text x="480.25" y="857.46" transform="rotate(3.16 480.25 857.46)">E</text>
+    <text x="551.19" y="854.32" transform="rotate(-8.22 551.19 854.32)">O</text>
+    <text x="589.90" y="846.53" transform="rotate(-14.54 589.90 846.53)">R</text>
+    <text x="627.52" y="834.52" transform="rotate(-20.87 627.52 834.52)">I</text>
+    <text x="663.59" y="818.44" transform="rotate(-27.19 663.59 818.44)">G</text>
+    <text x="697.67" y="798.48" transform="rotate(-33.51 697.67 798.48)">E</text>
+    <text x="729.34" y="774.89" transform="rotate(-39.84 729.34 774.89)">N</text>
+  </g>
+  <g transform="translate(145 500)">
+    <path d="M0 -26 C15 -26 24 -13 24 1 C24 18 15 29 0 29 C-15 29 -24 18 -24 1 C-24 -13 -15 -26 0 -26 Z" fill="#E8CC94"/>
+    <path d="M-3 -23 C4 -16 6 -7 1 1 C-4 8 -5 18 2 25" fill="none" stroke="#241A14" stroke-width="5.5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(855 500)">
+    <path d="M0 -26 C15 -26 24 -13 24 1 C24 18 15 29 0 29 C-15 29 -24 18 -24 1 C-24 -13 -15 -26 0 -26 Z" fill="#E8CC94"/>
+    <path d="M3 -23 C-4 -16 -6 -7 -1 1 C4 8 5 18 -2 25" fill="none" stroke="#241A14" stroke-width="5.5" stroke-linecap="round"/>
+  </g>
+</svg>
